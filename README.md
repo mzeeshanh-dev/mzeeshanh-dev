@@ -1,3 +1,4 @@
+<!-- HEADER BADGE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e8bff,100:49e9fa&height=160&section=header&text=Hey,%20I'm%20Muhammad%20Zeeshan%20Haider!%20👋&fontSize=34&fontAlign=50&fontColor=ffffff" />
 
 <p align="center">
@@ -28,23 +29,23 @@ My projects blend strong theoretical foundations with hands-on tech, and I’m a
 
 ## 🚀 Featured Projects
 
-### 🌐 <a href="https://uptime-pulse-zeeshan.vercel.app/" target="_blank" rel="noopener noreferrer">UptimePulse – URL Monitoring Platform (Next.js + Node.js)</a>
+### 🌐 [UptimePulse – URL Monitoring Platform](https://uptime-pulse-zeeshan.vercel.app/)
 - Prevents Render free-tier apps from sleeping using automated 5-minute cron pings  
 - Secure authentication, persistent login, dashboards, and CRUD for monitored URLs
 
-### 📊 <a href="https://expense-tracker-firebase-eosin.vercel.app/" target="_blank" rel="noopener noreferrer">Expense Tracker (React + Firebase)</a>
+### 📊 [Expense Tracker (React + Firebase)](https://expense-tracker-firebase-eosin.vercel.app/)
 - Firebase authentication + real-time DB  
 - Budget control features, smooth UI with Tailwind CSS  
 
-### 🖼️ <a href="https://image-converter-tkkn.onrender.com/" target="_blank" rel="noopener noreferrer">Image Format Converter (MERN)</a>
+### 🖼️ [Image Format Converter (MERN)](https://image-converter-tkkn.onrender.com/)
 - Upload → Convert (Sharp + Node.js) → Download  
 - Handles multiple formats, fast & scalable  
 
-### ⌚ <a href="https://kasana-watches.vercel.app/" target="_blank" rel="noopener noreferrer">E-Commerce Website – Kasana Watches</a>
+### ⌚ [E-Commerce Website – Kasana Watches](https://kasana-watches.vercel.app/)
 - Product filtering, search, and pagination  
 - LocalStorage-based persistence + WhatsApp integration  
 
-### ☕ <a href="https://bean-scene-xi.vercel.app/" target="_blank" rel="noopener noreferrer">Bean Scene Coffee Shop Website</a>
+### ☕ [Bean Scene Coffee Shop Website](https://bean-scene-xi.vercel.app/)
 - Modern React-based UI  
 - Boosted engagement by 30% with animations + responsive design  
 
@@ -52,35 +53,36 @@ My projects blend strong theoretical foundations with hands-on tech, and I’m a
 
 ## 📂 Popular Repositories
 <p align="center">
-  <a href="https://github.com/mzeeshanh-dev/uptimepulse" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzeeshanh-dev&repo=uptimepulse&theme=tokyonight" />
+  <a href="https://github.com/mzeeshanh-dev/uptimepulse" target="_blank">
+    <img loading="lazy" src="https://gh-readme-stats.vercel.app/api/pin/?username=mzeeshanh-dev&repo=uptimepulse&theme=tokyonight&cache_seconds=1800" />
   </a>
-  <a href="https://github.com/mzeeshanh-dev/Expense-Tracker-Firebase" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzeeshanh-dev&repo=Expense-Tracker-Firebase&theme=tokyonight" />
+  <a href="https://github.com/mzeeshanh-dev/Expense-Tracker-Firebase" target="_blank">
+    <img loading="lazy" src="https://gh-readme-stats.vercel.app/api/pin/?username=mzeeshanh-dev&repo=Expense-Tracker-Firebase&theme=tokyonight&cache_seconds=1800" />
   </a>
-  
-</p>
-
-<p align="center">
-  <a href="https://github.com/mzeeshanh-dev/image-converter" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzeeshanh-dev&repo=image-converter&theme=tokyonight" />
+  <a href="https://github.com/mzeeshanh-dev/image-converter" target="_blank">
+    <img loading="lazy" src="https://gh-readme-stats.vercel.app/api/pin/?username=mzeeshanh-dev&repo=image-converter&theme=tokyonight&cache_seconds=1800" />
   </a>
-  <a href="https://github.com/mzeeshanh-dev/eccomerce" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzeeshanh-dev&repo=eccomerce&theme=tokyonight" />
+  <a href="https://github.com/mzeeshanh-dev/eccomerce" target="_blank">
+    <img loading="lazy" src="https://gh-readme-stats.vercel.app/api/pin/?username=mzeeshanh-dev&repo=eccomerce&theme=tokyonight&cache_seconds=1800" />
   </a>
-  
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contribution
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzeeshanh-dev&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzeeshanh-dev&layout=compact&theme=tokyonight" height="165"/>
+  <img loading="lazy" src="https://gh-readme-stats.vercel.app/api?username=mzeeshanh-dev&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
+  <img loading="lazy" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=mzeeshanh-dev&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mzeeshanh-dev&theme=tokyonight&hide_border=true" height="165"/>
+  <!-- Contribution snake -->
+  <img loading="lazy" src="https://github.com/mzeeshanh-dev/github-contribution-snake.svg" height="165"/>
+</p>
+
+<p align="center">
+  <!-- Streak stats -->
+  <img loading="lazy" src="https://streak-stats.demolab.com?user=mzeeshanh-dev&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -99,18 +101,18 @@ I’m actively seeking **opportunities, freelance projects, and full-time/part-t
 - Backend Development (Node, Express, Python)
 
 If you’re hiring or collaborating, let’s connect! 🚀  
-<a href="mailto:mzeeshanh.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/m-zeeshan-haider-606bb3284/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://m-zeeshan-haider.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="mailto:mzeeshanh.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/m-zeeshan-haider-606bb3284/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://m-zeeshan-haider.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
 ---
 
 ## 🌐 Let’s Connect
 <p align="center">
-  <a href="mailto:mzeeshanh.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/m-zeeshan-haider-606bb3284/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://m-zeeshan-haider.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://instagram.com/mzeeshanh.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:mzeeshanh.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/m-zeeshan-haider-606bb3284/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://m-zeeshan-haider.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://instagram.com/mzeeshanh.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
@@ -118,4 +120,3 @@ If you’re hiring or collaborating, let’s connect! 🚀
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e8bff,100:49e9fa&height=100&section=footer"/>
 </p>
-
