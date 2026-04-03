@@ -93,13 +93,13 @@ My projects blend strong theoretical foundations with hands-on tech, and I’m a
 ---
 
 ## 💼 Open to Opportunities
-I’m actively seeking **internships, freelance projects, and full-time roles** in:  
+I’m actively seeking **opportunities, freelance projects, and full-time/part-time roles** in:  
 - Frontend Development (React, Next.js, TypeScript)  
-- Full Stack Development (MERN/MEAN Stack)  
+- Full Stack Development (MERN Stack)  
 - Backend Development (Node, Express, Python)
 
 If you’re hiring or collaborating, let’s connect! 🚀  
-<a href="mailto:m.zeeshan.haider.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:mzeeshanh.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/m-zeeshan-haider-606bb3284/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://m-zeeshan-haider.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
@@ -107,10 +107,10 @@ If you’re hiring or collaborating, let’s connect! 🚀
 
 ## 🌐 Let’s Connect
 <p align="center">
-  <a href="mailto:m.zeeshan.haider.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:mzeeshanh.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/m-zeeshan-haider-606bb3284/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://m-zeeshan-haider.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://instagram.com/mzeeshanh-dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/mzeeshanh.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
@@ -119,4 +119,3 @@ If you’re hiring or collaborating, let’s connect! 🚀
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e8bff,100:49e9fa&height=100&section=footer"/>
 </p>
 
-<sub align="center">✨ Last updated: September 2025 ✨</sub>
