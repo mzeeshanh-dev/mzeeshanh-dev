@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-Hello! I’m **Muhammad Zeeshan Haider**, a **Software Engineer** and recent CS Graduate from PMAS Arid University[cite: 1]. 
+Hello! I’m **Muhammad Zeeshan Haider**, a **Software Engineer** and recent CS Graduate from PMAS Arid University. 
 
 Currently, I work in the corporate sector developing systems for an **Earth Scan System company**, specializing in **GIS and Remote Sensing**. I tackle complex, real-world problems by processing satellite data and mapping it into actionable insights through robust software architecture. 
 
