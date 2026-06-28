@@ -2,52 +2,50 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e8bff,100:49e9fa&height=160&section=header&text=Hey,%20I'm%20Muhammad%20Zeeshan%20Haider!%20👋&fontSize=34&fontAlign=50&fontColor=ffffff" />
 
 <p align="center">
-  <b>Software Engineer | MERN Stack Developer | Lifelong Learner</b><br>
-  🚀 Passionate about building modern, responsive, and scalable web apps
+  <b>Software Engineer | Full Stack Developer | GIS & Remote Sensing</b><br>
+  🚀 Building production-ready, highly scalable, and premium web applications
 </p>
 
 ---
 
-## 👨‍🎓 About Me
-Hello! I’m <b>Muhammad Zeeshan Haider</b>, a passionate <b>Software Engineer</b> and CS Undergraduate from PMAS Arid University.  
-I love tackling real-world problems with code and have a special interest in <b>Full Stack Development</b> and <b>Modern Software Engineering</b>.  
+## 👨‍💻 About Me
+Hello! I’m **Muhammad Zeeshan Haider**, a **Software Engineer** and recent CS Graduate from PMAS Arid University[cite: 1]. 
 
-My projects blend strong theoretical foundations with hands-on tech, and I’m always hungry to **learn, build, and share**.
+Currently, I work in the corporate sector developing systems for an **Earth Scan System company**, specializing in **GIS and Remote Sensing**. I tackle complex, real-world problems by processing satellite data and mapping it into actionable insights through robust software architecture. 
+
+Beyond my day job, my true passion lies in building hardcore **Full Stack applications**. I specialize in creating scalable backend systems (Node.js/Express) with complex Role-Based Access Control (RBAC), alongside blazing-fast, visually premium frontends (Next.js, Supabase, Tailwind). I despise cheap, generic UIs—my goal is always to engineer products that look top-tier and run flawlessly under the hood.
+
+I am constantly learning, shipping code daily, and actively seeking international remote opportunities to collaborate with elite engineering teams.
 
 ---
 
-## 🛠️ Core Skills
+## 🛠️ Core Stack & Technologies
 
-- **Programming:** C++, Python, JavaScript (TypeScript), Go  
-- **Web Dev:** HTML5, CSS3 (Tailwind), React, Next.js  
-- **Backend:** Node.js, Express, REST APIs, Sockets  
-- **Tools:** Git, GitHub, CMake, Framer Motion, EmailJS  
-- **Other:** Algorithms, OOP, Unit Testing  
-- **MERN Stack (MongoDB, Express, React, Node.js)**  
+- **Frontend Architecture:** Next.js, React.js, TypeScript, TanStack Query, Redux Toolkit[cite: 1]
+- **Backend & Database:** Node.js, Express.js, MongoDB (Mongoose), SQL, Supabase[cite: 1]
+- **Real-Time & APIs:** REST APIs, Socket.IO, Firebase Cloud Messaging (FCM), JWT[cite: 1]
+- **Styling & UI:** Tailwind CSS, Framer Motion, custom glassmorphism/dark-mode aesthetics[cite: 1]
+- **Domain Expertise:** GIS Systems, Remote Sensing, SaaS platforms, Job Portals
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌐 [UptimePulse – URL Monitoring Platform](https://uptime-pulse-zeeshan.vercel.app/)
-- Prevents Render free-tier apps from sleeping using automated 5-minute cron pings  
-- Secure authentication, persistent login, dashboards, and CRUD for monitored URLs
+- **Tech:** Next.js, Node.js, MongoDB, Tailwind[cite: 1]
+- Prevents Render free-tier apps from sleeping using automated cron pings, supporting 50+ URLs per user with 99.9% uptime[cite: 1].
+- Features secure authentication, persistent login, and full CRUD dashboards[cite: 1].
 
-### 📊 [Expense Tracker (React + Firebase)](https://expense-tracker-firebase-eosin.vercel.app/)
-- Firebase authentication + real-time DB  
-- Budget control features, smooth UI with Tailwind CSS  
+### 🚗 [DriveX - Full Stack Car Rental Platform](#)
+- **Tech:** React.js, Tailwind, Framer Motion, Node.js, Express.js, MongoDB[cite: 1]
+- Real-time booking system with day-wise pricing and a powerful admin dashboard for dynamic fleet management[cite: 1].
 
-### 🖼️ [Image Format Converter (MERN)](https://image-converter-tkkn.onrender.com/)
-- Upload → Convert (Sharp + Node.js) → Download  
-- Handles multiple formats, fast & scalable  
+### ⌚ [Kasana Watches - E-Commerce Platform](https://kasana-watches.vercel.app/)
+- **Tech:** Next.js, Tailwind, Node.js, JWT, Firebase[cite: 1]
+- Full-stack e-commerce supporting categorized products, dynamic cart management, and automated email notifications[cite: 1].
 
-### ⌚ [E-Commerce Website – Kasana Watches](https://kasana-watches.vercel.app/)
-- Product filtering, search, and pagination  
-- LocalStorage-based persistence + WhatsApp integration  
-
-### ☕ [Bean Scene Coffee Shop Website](https://bean-scene-xi.vercel.app/)
-- Modern React-based UI  
-- Boosted engagement by 30% with animations + responsive design  
+### 💬 Chatly & HR/Job Platforms (In Development)
+- Architecting scalable real-time chat applications and heavy HR recruitment portals utilizing deep RBAC, custom resume builders, and premium modern UI components. 
 
 ---
 
@@ -69,7 +67,9 @@ My projects blend strong theoretical foundations with hands-on tech, and I’m a
 
 ---
 
-## 📊 GitHub Stats & Contribution
+## 📊 GitHub Stats & Contributions
+*(I actively commit to private enterprise repositories for my corporate role, ensuring daily code shipping and architectural problem-solving.)*
+
 <p align="center">
   <img loading="lazy" src="https://gh-readme-stats.vercel.app/api?username=mzeeshanh-dev&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
   <img loading="lazy" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=mzeeshanh-dev&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
@@ -80,40 +80,19 @@ My projects blend strong theoretical foundations with hands-on tech, and I’m a
   <img loading="lazy" src="https://github.com/mzeeshanh-dev/github-contribution-snake.svg" height="165"/>
 </p>
 
-<p align="center">
-  <!-- Streak stats -->
-  <img loading="lazy" src="https://streak-stats.demolab.com?user=mzeeshanh-dev&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🏆 Achievements
-- 🥇 Completed **3 Coursera Certifications** (Frontend, JavaScript, Python)  
-- 🎓 Built **real-world projects** deployed on Vercel & Render  
-- 🤝 Collaborated on academic & personal projects with Agile mindset  
-
 ---
 
 ## 💼 Open to Opportunities
-I’m actively seeking **opportunities, freelance projects, and full-time/part-time roles** in:  
-- Frontend Development (React, Next.js, TypeScript)  
-- Full Stack Development (MERN Stack)  
-- Backend Development (Node, Express, Python)
+I am aggressively looking to transition into **International Remote Roles** and **High-Quality Freelance Projects**. I am ready to bring my enterprise and startup experience to:
+- **Remote Full Stack Engineering Roles** 
+- **Next.js / Frontend Architecture Positions**
+- **Node.js Backend Development**
 
-If you’re hiring or collaborating, let’s connect! 🚀  
+If your team values clean code, scalable architecture, and someone who treats UI/UX as a priority, let’s connect! 🚀  
+
 <a href="mailto:mzeeshanh.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/m-zeeshan-haider-606bb3284/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://m-zeeshan-haider.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"></a>
-
----
-
-## 🌐 Let’s Connect
-<p align="center">
-  <a href="mailto:mzeeshanh.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/m-zeeshan-haider-606bb3284/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://m-zeeshan-haider.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://instagram.com/mzeeshanh.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
 
 ---
 
