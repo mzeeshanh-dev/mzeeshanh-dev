@@ -1,4 +1,3 @@
-<!-- HEADER BADGE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e8bff,100:49e9fa&height=160&section=header&text=Hey,%20I'm%20Muhammad%20Zeeshan%20Haider!%20👋&fontSize=34&fontAlign=50&fontColor=ffffff" />
 
 <p align="center">
@@ -21,31 +20,38 @@ I am constantly learning, shipping code daily, and actively seeking internationa
 
 ## 🛠️ Core Stack & Technologies
 
-- **Frontend Architecture:** Next.js, React.js, TypeScript, TanStack Query, Redux Toolkit[cite: 1]
-- **Backend & Database:** Node.js, Express.js, MongoDB (Mongoose), SQL, Supabase[cite: 1]
-- **Real-Time & APIs:** REST APIs, Socket.IO, Firebase Cloud Messaging (FCM), JWT[cite: 1]
-- **Styling & UI:** Tailwind CSS, Framer Motion, custom glassmorphism/dark-mode aesthetics[cite: 1]
+- **Frontend Architecture:** Next.js (App Router), React.js, TypeScript, TanStack Query, Redux Toolkit
+- **Backend & Database:** Node.js, Express.js, MongoDB (Mongoose), SQL, Supabase, Firebase Firestore
+- **Real-Time & APIs:** REST APIs, Socket.IO, Firebase Cloud Messaging (FCM), JWT
+- **Styling & UI:** Tailwind CSS, Framer Motion, custom glassmorphism/dark-mode aesthetics
 - **Domain Expertise:** GIS Systems, Remote Sensing, SaaS platforms, Job Portals
 
 ---
 
 ## 🚀 Featured Projects
 
+### 💬 [Chatly — Real-Time Messaging Platform](http://chatly-stream.vercel.app/)
+- **Tech:** Next.js (App Router), TypeScript, Tailwind CSS, Firebase (Firestore & FCM), Cloudinary, Nodemailer
+- Engineered a full-stack serverless chat application supporting seamless **one-on-one individual messaging** and robust **hierarchical multi-tenant group chats** with sovereign exits.
+- Built a dual-layer permission system (LinkedIn-style connection routing), zero-trust OTP identity verification via email, and real-time granular message lifecycle states (Sent, Delivered, Read).
+- Implemented deep profile management (custom avatars via Cloudinary) and a zero-flicker **dynamic UI theme switcher** utilizing custom Solar Light and Deep Tech Dark profiles.
+- Integrated **Firebase Cloud Messaging (FCM)** for real-time background push notifications and synchronized typing indicators with optimized debouncing.
+
 ### 🌐 [UptimePulse – URL Monitoring Platform](https://uptime-pulse-zeeshan.vercel.app/)
-- **Tech:** Next.js, Node.js, MongoDB, Tailwind[cite: 1]
-- Prevents Render free-tier apps from sleeping using automated cron pings, supporting 50+ URLs per user with 99.9% uptime[cite: 1].
-- Features secure authentication, persistent login, and full CRUD dashboards[cite: 1].
+- **Tech:** Next.js, Node.js, MongoDB, Tailwind
+- Prevents Render free-tier apps from sleeping using automated cron pings, supporting 50+ URLs per user with 99.9% uptime.
+- Features secure authentication, persistent login, and full CRUD dashboards.
 
 ### 🚗 [DriveX - Full Stack Car Rental Platform](#)
-- **Tech:** React.js, Tailwind, Framer Motion, Node.js, Express.js, MongoDB[cite: 1]
-- Real-time booking system with day-wise pricing and a powerful admin dashboard for dynamic fleet management[cite: 1].
+- **Tech:** React.js, Tailwind, Framer Motion, Node.js, Express.js, MongoDB
+- Real-time booking system with day-wise pricing and a powerful admin dashboard for dynamic fleet management.
 
 ### ⌚ [Kasana Watches - E-Commerce Platform](https://kasana-watches.vercel.app/)
-- **Tech:** Next.js, Tailwind, Node.js, JWT, Firebase[cite: 1]
-- Full-stack e-commerce supporting categorized products, dynamic cart management, and automated email notifications[cite: 1].
+- **Tech:** Next.js, Tailwind, Node.js, JWT, Firebase
+- Full-stack e-commerce supporting categorized products, dynamic cart management, and automated email notifications.
 
-### 💬 Chatly & HR/Job Platforms (In Development)
-- Architecting scalable real-time chat applications and heavy HR recruitment portals utilizing deep RBAC, custom resume builders, and premium modern UI components. 
+### 🏢 HR & Recruitment Platform (In Development)
+- Architecting a heavy HR recruitment portal utilizing deep Role-Based Access Control (RBAC), custom resume builders, and premium modern UI components. 
 
 ---
 
@@ -76,7 +82,6 @@ I am constantly learning, shipping code daily, and actively seeking internationa
 </p>
 
 <p align="center">
-  <!-- Contribution snake -->
   <img loading="lazy" src="https://github.com/mzeeshanh-dev/github-contribution-snake.svg" height="165"/>
 </p>
 
@@ -84,8 +89,7 @@ I am constantly learning, shipping code daily, and actively seeking internationa
 
 ## 💼 Open to Opportunities
 I am aggressively looking to transition into **International Remote Roles** and **High-Quality Freelance Projects**. I am ready to bring my enterprise and startup experience to:
-- **Remote Full Stack Engineering Roles** 
-- **Next.js / Frontend Architecture Positions**
+- **Remote Full Stack Engineering Roles** - **Next.js / Frontend Architecture Positions**
 - **Node.js Backend Development**
 
 If your team values clean code, scalable architecture, and someone who treats UI/UX as a priority, let’s connect! 🚀  
