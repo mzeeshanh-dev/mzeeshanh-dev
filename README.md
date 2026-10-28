@@ -1,105 +1,78 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e8bff,100:49e9fa&height=160&section=header&text=Hey,%20I'm%20Muhammad%20Zeeshan%20Haider!%20👋&fontSize=34&fontAlign=50&fontColor=ffffff" />
+## Hi, I'm Muhammad Zeeshan Haider
 
-<p align="center">
-  <b>Software Engineer | Full Stack Developer | GIS & Remote Sensing</b><br>
-  🚀 Building production-ready, highly scalable, and premium web applications
-</p>
+**Backend-focused full-stack engineer** building APIs, real-time products and practical retrieval systems with TypeScript, Node.js and Next.js.
 
----
-
-## 👨‍💻 About Me
-Hello! I’m **Muhammad Zeeshan Haider**, a **Software Engineer** and recent CS Graduate from PMAS Arid University. 
-
-Currently, I work in the corporate sector developing systems for an **Earth Scan System company**, specializing in **GIS and Remote Sensing**. I tackle complex, real-world problems by processing satellite data and mapping it into actionable insights through robust software architecture. 
-
-Beyond my day job, my true passion lies in building hardcore **Full Stack applications**. I specialize in creating scalable backend systems (Node.js/Express) with complex Role-Based Access Control (RBAC), alongside blazing-fast, visually premium frontends (Next.js, Supabase, Tailwind). I despise cheap, generic UIs—my goal is always to engineer products that look top-tier and run flawlessly under the hood.
-
-I am constantly learning, shipping code daily, and actively seeking international remote opportunities to collaborate with elite engineering teams.
+I work as a Full-Stack Software Engineer at [Earth Scan Systems](https://escan-systems.com) in Islamabad, building web platforms for agriculture, GIS and remote-sensing data. Outside work I build complete products end to end — data model, API, authentication, UI and deployment — and document the trade-offs I make along the way.
 
 ---
 
-## 🛠️ Core Stack & Technologies
+### Featured projects
 
-- **Frontend Architecture:** Next.js (App Router), React.js, TypeScript, TanStack Query, Redux Toolkit
-- **Backend & Database:** Node.js, Express.js, MongoDB (Mongoose), SQL, Supabase, Firebase Firestore
-- **Real-Time & APIs:** REST APIs, Socket.IO, Firebase Cloud Messaging (FCM), JWT
-- **Styling & UI:** Tailwind CSS, Framer Motion, custom glassmorphism/dark-mode aesthetics
-- **Domain Expertise:** GIS Systems, Remote Sensing, SaaS platforms, Job Portals
+#### TaaSGrid · [live](https://taasgrid.com) · *source private*
 
----
+A talent platform that combines hiring, student projects, CV tools, AI-assisted job matching and learning in one product.
 
-## 🚀 Featured Projects
+- **Express 5 + MongoDB API** organised into eight modules: hiring pipeline with Zoom / Google Meet / Teams interview scheduling, project marketplace, CV builder, AI CV parsing and matching (Groq + Gemini), and two learning modules.
+- **JWT auth in httpOnly cookies** with refresh-and-retry, five roles across three collections, and separate guards for any user, admins (re-checked against the database) and company accounts.
+- **Multi-tenant isolation:** company-private courses are scoped by `companyId`, and another tenant's IDs return 404 so they can't be enumerated.
+- **63 integration tests** (Vitest + mongodb-memory-server) driving real HTTP with real JWTs across learning flows, tenant isolation and the role-permission matrix.
+- Next.js 16 frontend with role-based dashboards and TanStack Query.
 
-### 💬 [Chatly — Real-Time Messaging Platform](http://chatly-stream.vercel.app/)
-- **Tech:** Next.js (App Router), TypeScript, Tailwind CSS, Firebase (Firestore & FCM), Cloudinary, Nodemailer
-- Engineered a full-stack serverless chat application supporting seamless **one-on-one individual messaging** and robust **hierarchical multi-tenant group chats** with sovereign exits.
-- Built a dual-layer permission system (LinkedIn-style connection routing), zero-trust OTP identity verification via email, and real-time granular message lifecycle states (Sent, Delivered, Read).
-- Implemented deep profile management (custom avatars via Cloudinary) and a zero-flicker **dynamic UI theme switcher** utilizing custom Solar Light and Deep Tech Dark profiles.
-- Integrated **Firebase Cloud Messaging (FCM)** for real-time background push notifications and synchronized typing indicators with optimized debouncing.
+`Node.js` `Express` `MongoDB` `JWT` `Next.js` `Vitest` `Cloudinary` `Firestore`
 
-### 🌐 [UptimePulse – URL Monitoring Platform](https://uptime-pulse-zeeshan.vercel.app/)
-- **Tech:** Next.js, Node.js, MongoDB, Tailwind
-- Prevents Render free-tier apps from sleeping using automated cron pings, supporting 50+ URLs per user with 99.9% uptime.
-- Features secure authentication, persistent login, and full CRUD dashboards.
+#### [Pixel Toolbox](https://github.com/mzeeshanh-dev/pixel-toolbox) · [live demo](https://pixel-toolbox-eta.vercel.app)
 
-### 🚗 [DriveX - Full Stack Car Rental Platform](#)
-- **Tech:** React.js, Tailwind, Framer Motion, Node.js, Express.js, MongoDB
-- Real-time booking system with day-wise pricing and a powerful admin dashboard for dynamic fleet management.
+QR code generator, video-to-GIF converter and image converter/compressor in one Next.js app, designed to keep media processing in the browser where possible.
 
-### ⌚ [Kasana Watches - E-Commerce Platform](https://kasana-watches.vercel.app/)
-- **Tech:** Next.js, Tailwind, Node.js, JWT, Firebase
-- Full-stack e-commerce supporting categorized products, dynamic cart management, and automated email notifications.
+- Video-to-GIF with **FFmpeg WebAssembly in a Web Worker**: two-pass palette encoding, cancellation, and a bounded search toward a target file size.
+- Two explicit image paths — Canvas in the browser, and a **Sharp API route** with Zod validation, size caps and a consistent error contract for formats the browser can't encode.
+- Local QR library in **IndexedDB (Dexie)** with nested folders, non-destructive version history and transactional JSON backup/restore.
+- 122 Vitest tests plus Playwright end-to-end specs.
 
-### 🏢 HR & Recruitment Platform (In Development)
-- Architecting a heavy HR recruitment portal utilizing deep Role-Based Access Control (RBAC), custom resume builders, and premium modern UI components. 
+`Next.js 16` `TypeScript` `FFmpeg.wasm` `Sharp` `Dexie` `Zod` `Vitest` `Playwright`
 
----
+#### [Chatly](https://github.com/mzeeshanh-dev/Chatly) · [live demo](https://chatly-khaki.vercel.app) · [Android client](https://github.com/mzeeshanh-dev/chatly-android-app)
 
-## 📂 Popular Repositories
-<p align="center">
-  <a href="https://github.com/mzeeshanh-dev/uptimepulse" target="_blank">
-    <img loading="lazy" src="https://gh-readme-stats.vercel.app/api/pin/?username=mzeeshanh-dev&repo=uptimepulse&theme=tokyonight&cache_seconds=1800" />
-  </a>
-  <a href="https://github.com/mzeeshanh-dev/Expense-Tracker-Firebase" target="_blank">
-    <img loading="lazy" src="https://gh-readme-stats.vercel.app/api/pin/?username=mzeeshanh-dev&repo=Expense-Tracker-Firebase&theme=tokyonight&cache_seconds=1800" />
-  </a>
-  <a href="https://github.com/mzeeshanh-dev/image-converter" target="_blank">
-    <img loading="lazy" src="https://gh-readme-stats.vercel.app/api/pin/?username=mzeeshanh-dev&repo=image-converter&theme=tokyonight&cache_seconds=1800" />
-  </a>
-  <a href="https://github.com/mzeeshanh-dev/eccomerce" target="_blank">
-    <img loading="lazy" src="https://gh-readme-stats.vercel.app/api/pin/?username=mzeeshanh-dev&repo=eccomerce&theme=tokyonight&cache_seconds=1800" />
-  </a>
-</p>
+Real-time direct and group messaging with a web client, an Android client and one shared Firebase backend.
 
----
+- Firestore real-time listeners for messages, typing state, presence and read receipts, shared by both clients.
+- Authorization in **Firestore security rules**: per-user "delete for me", sender-only "delete for everyone", and a 3-minute sender-only edit window.
+- Next.js API routes verify **Firebase ID tokens** before privileged work (push notifications, media upload); admin portal gated by custom claims.
+- Connection-request flow, group roles, message tagging (question/task/decision), FCM push and email OTP sign-up.
 
-## 📊 GitHub Stats & Contributions
-*(I actively commit to private enterprise repositories for my corporate role, ensuring daily code shipping and architectural problem-solving.)*
+`Next.js` `TypeScript` `Firebase Auth` `Firestore` `FCM` `React Native` `Cloudinary`
 
-<p align="center">
-  <img loading="lazy" src="https://gh-readme-stats.vercel.app/api?username=mzeeshanh-dev&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
-  <img loading="lazy" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=mzeeshanh-dev&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
-</p>
+#### [Laptop Finder](https://github.com/mzeeshanh-dev/laptop-finder-rag)
 
-<p align="center">
-  <img loading="lazy" src="https://github.com/mzeeshanh-dev/github-contribution-snake.svg" height="165"/>
-</p>
+Conversational search over 1,275 laptops that answers multi-turn questions without an LLM, so every answer is deterministic and traceable to the data.
+
+- Rule-based query parser for prices, specs, brands (with negation) and use cases, feeding hard filters.
+- **Hybrid retrieval**: BGE-M3 dense embeddings + BM25, then deterministic ranking and template-based answers.
+- Rule-based dialogue state for follow-ups such as "show cheaper ones" and "compare the first two"; FastAPI backend and Docker setup.
+
+`Python` `FastAPI` `BGE-M3` `BM25` `pandas` `Docker`
+
+#### [Portfolio CLI](https://github.com/mzeeshanh-dev/portfolio-node-cli) · [npm](https://www.npmjs.com/package/@zeeshan-dev/software-engineer)
+
+An interactive terminal app published to npm (`npx @zeeshan-dev/software-engineer`) that loads portfolio and GitHub data with caching and an offline fallback.
+
+`TypeScript` `Node.js` `Commander` `Vitest` `tsup`
 
 ---
 
-## 💼 Open to Opportunities
-I am aggressively looking to transition into **International Remote Roles** and **High-Quality Freelance Projects**. I am ready to bring my enterprise and startup experience to:
-- **Remote Full Stack Engineering Roles** - **Next.js / Frontend Architecture Positions**
-- **Node.js Backend Development**
+### Skills
 
-If your team values clean code, scalable architecture, and someone who treats UI/UX as a priority, let’s connect! 🚀  
-
-<a href="mailto:mzeeshanh.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/m-zeeshan-haider-606bb3284/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://m-zeeshan-haider.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"></a>
+- **Languages:** TypeScript, JavaScript, Python
+- **Backend:** Node.js, Express, Next.js route handlers, FastAPI, REST API design, JWT and Firebase authentication, Zod validation
+- **Data:** MongoDB (Mongoose), Firestore, IndexedDB, BM25 and embedding-based retrieval
+- **Frontend:** React, Next.js (App Router), Tailwind CSS, TanStack Query
+- **Tooling and delivery:** Git, Docker, Vercel, Render, Vitest, Playwright
+- **Domain:** GIS and remote-sensing data, agriculture software
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e8bff,100:49e9fa&height=100&section=footer"/>
-</p>
+### Contact
+
+Open to backend and full-stack engineering roles.
+
+[Portfolio](https://m-zeeshan-haider.vercel.app) · [LinkedIn](https://www.linkedin.com/in/m-zeeshan-haider-606bb3284/) · [Email](mailto:mzeeshanh.dev@gmail.com)
