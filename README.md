@@ -104,12 +104,16 @@
 <h2 align="center">GitHub activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzeeshanh-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=2f9fb3&icon_color=4ec9b0" alt="GitHub stats" height="170" />
-  <img src="https://streak-stats.demolab.com?user=mzeeshanh-dev&hide_border=true&theme=tokyonight&background=0d1117&ring=2f9fb3&fire=4ec9b0&currStreakLabel=2f9fb3" alt="GitHub streak" height="170" />
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Contribution profile" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mzeeshanh-dev&hide_border=true&bg_color=0d1117&color=2f9fb3&line=4ec9b0&point=ffffff&area=true&area_color=1a6b7c" alt="Contribution graph" width="100%" />
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="49%" />
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mzeeshanh-dev&hide_border=true&theme=tokyonight&background=0d1117&ring=2f9fb3&fire=4ec9b0&currStreakLabel=2f9fb3" alt="GitHub streak" width="100%" />
 </p>
 
 <p align="center">
