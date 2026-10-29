@@ -101,6 +101,16 @@
   </tr>
 </table>
 
+<!-- GitHub Snake Animation: moved above GitHub Activity -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mzeeshanh-dev/mzeeshanh-dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mzeeshanh-dev/mzeeshanh-dev/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/mzeeshanh-dev/mzeeshanh-dev/output/github-snake.svg" alt="Snake eating my contribution graph" width="100%" />
+  </picture>
+</p>
+
 <h2 align="center">GitHub activity</h2>
 
 <p align="center">
@@ -114,14 +124,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mzeeshanh-dev&hide_border=true&theme=tokyonight&background=0d1117&ring=2f9fb3&fire=4ec9b0&currStreakLabel=2f9fb3" alt="GitHub streak" width="100%" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mzeeshanh-dev/mzeeshanh-dev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mzeeshanh-dev/mzeeshanh-dev/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/mzeeshanh-dev/mzeeshanh-dev/output/github-snake.svg" alt="Snake eating my contribution graph" width="100%" />
-  </picture>
 </p>
 
 <p align="center">
