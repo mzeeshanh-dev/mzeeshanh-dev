@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6b7c,50:2f8fa3,100:4fa3b3&height=220&section=header&text=Muhammad%20Zeeshan%20Haider&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Backend%20%26%20Applied%20AI%20Engineer&descSize=20&descAlignY=58" alt="Muhammad Zeeshan Haider" width="100%" />
+<img src="banner.svg" alt="Muhammad Zeeshan Haider, Backend and Applied AI Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -170,5 +170,5 @@ Previously at Earth Scan Systems (2024 to 2026), building GIS and agritech decis
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4fa3b3,50:2f8fa3,100:1a6b7c&height=120&section=footer" alt="" width="100%" />
+<img src="footer.svg" alt="" width="100%" />
 </p>
